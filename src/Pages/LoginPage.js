@@ -8,7 +8,6 @@ const LoginPage = () => {
       <img src={login} alt="login " className="login-pic" />
       <h1>Github Users</h1>
       <button className="btn" onClick={loginWithRedirect}>
-        {" "}
         Login/ Sign up
       </button>
     </section>
